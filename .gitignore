@@ -1,0 +1,6 @@
+data/*.csv
+data/prediction
+scripts/.ipynb_checkpoints
+scripts/__pycache__
+scripts/images
+scripts/*.png
